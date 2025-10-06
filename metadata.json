@@ -1,0 +1,5 @@
+{
+  "name": "Quote Machine",
+  "description": "An application that displays famous quotes in a slot machine effect. After a 5-second animated spin, an inspirational quote is revealed.",
+  "requestFramePermissions": []
+}
